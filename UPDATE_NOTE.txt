@@ -1,0 +1,1 @@
+Final planned premium build: premium homepage top/search, visible Home button on all non-home pages, premium reader/status/header, labeled previous/next top and bottom, scroll-to-top, no zoom controls, reader scrolls naturally, images unchanged.
