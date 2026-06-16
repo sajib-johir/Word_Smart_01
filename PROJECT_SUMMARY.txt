@@ -1,0 +1,5 @@
+Total images: 794
+Active letters: A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, Z
+Missing letters: X, Y
+Duplicate numeric id handled internally: 549
+Missing numeric source: 728
